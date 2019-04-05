@@ -871,7 +871,7 @@ h2.style {
     width: 45px;
     height: 45px;
     display: block;
-    background: url(/img/social-icons.png) no-repeat;
+    background: url(../images/social-icons.png) no-repeat;
     margin: 0 auto;
 }
 
@@ -988,7 +988,7 @@ h2.style {
     }
     nav a#pull:after {
         content: "";
-        background: url('/img/nav-icon.png') no-repeat;
+        background: url('nav-icon.png') no-repeat;
         width: 30px;
         height: 30px;
         display: inline-block;
@@ -1122,7 +1122,7 @@ h2.style {
     height: 67px;
     width: 212px;
     background: #fff;
-    background-image: url('/img/btn.png');
+    background-image: url('../img/btn.png');
     background-repeat: no-repeat;
     font-size: 16px;
     font-weight: bold;
@@ -1229,32 +1229,32 @@ ul.footer-nav li a {
 }
 
 .playlist-first {
-    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('/img/playlist/playlist-1.png');
+    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('../img/playlist/playlist-1.png');
     background-size: cover;
 }
 
 .playlist-second {
-    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('/img/playlist/playlist-2.png');
+    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('../img/playlist/playlist-2.png');
     background-size: cover;
 }
 
 .playlist-third {
-    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('/img/playlist/playlist-3.png');
+    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('../img/playlist/playlist-3.png');
     background-size: cover;
 }
 
 .playlist-fourth {
-    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('/img/playlist/playlist-4.png');
+    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('../img/playlist/playlist-4.png');
     background-size: cover;
 }
 
 .playlist-fifth {
-    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('/img/playlist/playlist-5.png');
+    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('../img/playlist/playlist-5.png');
     background-size: cover;
 }
 
 .playlist-sixth {
-    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('/img/playlist/playlist-6.png');
+    background: linear-gradient( rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url('../img/playlist/playlist-6.png');
     background-size: cover;
 }
 

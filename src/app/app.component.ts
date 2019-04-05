@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { HttpModule } from '@angular/http';
+import { Token } from './token';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  isLoggedIn= false;
+  public UserToken: Token;
 }
